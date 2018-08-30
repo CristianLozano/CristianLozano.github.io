@@ -7,9 +7,11 @@ I have knowledge in Java, HTML, JavaScript, C, Ruby, Angular, among other langua
 
 # Contact
 
-##**Name:** Cristian Camilo Lozano Jojoa
-##**Phone:** +57 319210088
-##**Postal Code:**  111311
+##Name: Cristian Camilo Lozano Jojoa
+
+##Phone: +57 319210088
+
+##Postal Code:  111311
 
 ### Markdown
 
